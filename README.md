@@ -1,2 +1,2 @@
 # rKSQLAPI
-A java mysql API for developers
+A simple java mysql lib for developers
